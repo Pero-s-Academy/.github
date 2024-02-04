@@ -16,10 +16,7 @@ We're setting out to:
 
 ---
 
-![Uploading Pero's Academy - Igniting EdTech Innovation.svg…]()
-
-![Pero's Academy - Igniting EdTech Innovation](https://github.com/Pero-s-Academy/.github/assets/126121348/b5911320-2c1b-4796-9fc2-7f478d195d5a)
-
+![Pero's Academy - Igniting EdTech Innovation](https://github.com/Pero-s-Academy/.github/assets/126121348/44fa3b03-680c-4945-a6ba-f925c110916b)
 
 ---
 
