@@ -1,4 +1,4 @@
-# Pero's Academy - Igniting EdTech Innovation
+# **Pero's Academy** - Igniting EdTech Innovation
 
 ---
 
