@@ -16,7 +16,8 @@ We're setting out to:
 
 ---
 
-![Pero's Academy - Igniting EdTech Innovation](https://github.com/Pero-s-Academy/.github/assets/126121348/44fa3b03-680c-4945-a6ba-f925c110916b)
+![Pero's Academy - Igniting EdTech Innovation grey](https://github.com/Pero-s-Academy/.github/assets/126121348/4c798fc6-f98d-4c5d-b519-377d6e47fd98)
+
 
 ---
 
