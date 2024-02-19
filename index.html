@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphic Text Layout</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Arial', sans-serif;
+            overflow: hidden;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .text-wrapper {
+            transform: rotate(-30deg);
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 600px;
+        }
+
+        .text-item {
+            transform: rotate(30deg);
+            margin: 0 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="text-wrapper">
+        <!-- Replicating the text pattern seen in the screenshot -->
+        <div class="text-item text-6xl font-bold">EYESPRINT</div>
+        <div class="text-item text-5xl font-bold">EYESPRINT</div>
+        <div class="text-item text-4xl font-bold">EYESPRINT</div>
+        <!-- More items will be added here to replicate the pattern -->
+        <!-- This is a simplified representation -->
+    </div>
+</body>
+
+</html>
